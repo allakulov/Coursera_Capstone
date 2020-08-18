@@ -1,1 +1,1 @@
-[Interactive map of Berlin neighborhoods](https://github.com/silkroady/Coursera_Capstone/blob/master/docs/map.html)
+[Interactive map of Berlin neighborhoods](https:https://silkroady.github.io/Coursera_Capstone/map.html)
